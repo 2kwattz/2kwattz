@@ -1,4 +1,4 @@
-### Full Stack Web Developer | Python Scripter ###
+### Full Stack Web Developer | Mobile Application Developer ###
 
 <div style="display: flex; align-items: center;">
 
