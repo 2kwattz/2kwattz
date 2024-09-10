@@ -6,6 +6,6 @@ NodeJs | Django | ReactJs | MongoDb | MySQL | Bootstrap | React Native
 
 </div>
 
-<br> Hobbyist Photographer | Flight Simmer | Military Aviation Enthusias <br>
+<br> Hobbyist Photographer | Flight Simmer | Military Aviation Enthusiast <br>
 
 ![](https://komarev.com/ghpvc/?username=2kwattz)
