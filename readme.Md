@@ -6,6 +6,6 @@ NodeJs | Django | ReactJs | MongoDb | MySQL | Bootstrap | React Native
 
 </div>
 
-<br> Hobbyist Photographer. Photographs Featured on 200+ Websites & Magazines including ABP News , Indian Express & News18 India <br>
+<br> Hobbyist Photographer | Flight Simmer | Military Aviation Enthusias <br>
 
 ![](https://komarev.com/ghpvc/?username=2kwattz)
